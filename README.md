@@ -4,7 +4,8 @@
 It uses two repositories "happy" and "frown" as training data to determine whether a person in the image is smiling or frowning. 
 
 ### Requirements:
-[Docker](https://www.docker.com/community-edition)
+1. [Docker](https://www.docker.com/community-edition)
+2. install from root directory into "tf_files"
 
 ### Usage:
 Start the Docker image in terminal using:
