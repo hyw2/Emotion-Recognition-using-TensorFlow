@@ -1,12 +1,12 @@
-# H1 Facial-Recognition-using-TensorFlow
-### H3 This repository was developed by following the TensorFlow for poets guide on [codelabs](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0). 
+# Facial-Recognition-using-TensorFlow
+### This repository was developed by following the TensorFlow for poets guide on [codelabs](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0). 
 
 It uses two repositories "happy" and "frown" as training data to determine whether a person in the image is smiling or frowning. 
 
-### H3 Requirements:
+### Requirements:
 [Docker](https://www.docker.com/community-edition)
 
-### H3 Usage:
+### Usage:
 Start the Docker image in terminal using:
 ```
 docker run -it \
